@@ -33,12 +33,12 @@ This project involves analyzing supermarket sales data using SQL. The aim is to 
 ## Conclusion
 This SQL analysis provided clear insights into customer behavior and business performance. Key takeaways include:
 
-**Branch A** leads in revenue generation, signaling high customer traffic or effective operations.
-The **Skincare** product category stands out as the top revenue driver.
-**Male customers** tend to spend more per transaction than female customers.
-**Members** account for a larger share of sales compared to Guests, suggesting loyalty programs are effective.
-Some products are **frequently bought in high volume**, even if they don't generate the most revenue, showing their role in attracting repeat customers.
-Cities show differences in spending patterns, which can guide targeted pricing or promotions.
+- **Branch A** leads in revenue generation, signaling high customer traffic or effective operations.
+- The **Skincare** product category stands out as the top revenue driver.
+- **Male customers** tend to spend more per transaction than female customers.
+- **Members** account for a larger share of sales compared to Guests, suggesting loyalty programs are effective.
+- Some products are **frequently bought in high volume**, even if they don't generate the most revenue, showing their role in attracting repeat customers.
+- Cities show differences in spending patterns, which can guide targeted pricing or promotions.
 
 These insights support decisions around marketing, inventory, and customer engagement strategies. The analysis serves as a strong foundation for more advanced business intelligence work such as dashboard creation and predictive modeling.
 
